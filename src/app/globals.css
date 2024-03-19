@@ -1,3 +1,26 @@
+:root{
+  --primary-rgb: 255 255 255;
+  --primary1-rgb: 54 55 56;
+  --secondary-rgb: 245 245 245;
+  --secondary1-rgb: 254 250 241;
+  --secondary2: 219 68 68;
+  --bg-rgb: 255 255 255;
+  --text-rgb: 250 250 250;
+  --text1-rgb: 125 129 132;
+  --text2-rgb: 0 0 0;
+  --button-rgb: 0 0 0;
+  --button1-rgb: 0 255 102;
+  --button2-rgb: 219 68 68;
+  --hover-button1-rgb: 224 117 117;
+  --hover-button2-rgb: 160 188 224;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 .container {
   width: 100%;
   max-width: 1170px;
